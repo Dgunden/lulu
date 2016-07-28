@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "lulu-62b40",
+    "lulu": "lulu-62b40"
+  }
+}
